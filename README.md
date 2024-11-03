@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## Демо
 
-- Сюда надо вставить ссылку
+https://disk.yandex.ru/i/MNpN3-Wiksl6lw
 
 ## Набор файлов
 
